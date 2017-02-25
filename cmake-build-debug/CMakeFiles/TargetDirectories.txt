@@ -1,0 +1,3 @@
+/Users/patryk/Desktop/OneWayList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/patryk/Desktop/OneWayList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/patryk/Desktop/OneWayList/cmake-build-debug/CMakeFiles/OneWayList.dir
